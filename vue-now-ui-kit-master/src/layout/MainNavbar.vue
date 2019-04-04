@@ -37,7 +37,6 @@
         <a
           class="nav-link"
           href="/"
-          target="_blank"
         >
           <i class="now-ui-icons shopping_shop"></i>
           <p>Home</p>
@@ -54,7 +53,6 @@
         </nav-link>
         <a
           href="https://demos.creative-tim.com/vue-now-ui-kit/documentation"
-          target="_blank"
           class="dropdown-item"
         >
           <i class="now-ui-icons design_bullet-list-67"></i> Documentation
@@ -71,7 +69,6 @@
         </nav-link>
         <a
           href="https://demos.creative-tim.com/vue-now-ui-kit/documentation"
-          target="_blank"
           class="dropdown-item"
         >
           <i class="now-ui-icons design_bullet-list-67"></i> Documentation
@@ -97,7 +94,6 @@
         <a
           class="nav-link"
           href="https://www.naver.com"
-          target="_blank"
         >
           <i class="now-ui-icons users_circle-08"></i>
           <p>Login</p>

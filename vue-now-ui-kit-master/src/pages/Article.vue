@@ -1,18 +1,19 @@
 <template>
   <div>
     <div class="page-header clear-filter" filter-color="orange">
-      <parallax
+      <!--<parallax
         class="page-header-image"
         style="background-image:url('img/header.jpg')"
       >
-      </parallax>
+      </parallax>-->
+
       <div class="container">
-        <div class="content-center brand">
+        <!--<div class="content-center brand">
           <img class="n-logo" src="img/now-logo.png" alt="" />
           <h1 class="h1-seo">Now UI Kit.</h1>
           <h3>A beautiful Bootstrap 4 UI kit. Yours free.</h3>
-        </div>
-        <h6 class="category category-absolute">
+        </div>-->
+        <!--<h6 class="category category-absolute">
           Designed by
           <a href="http://invisionapp.com/" target="_blank">
             <img src="img/invision-white-slim.png" class="invision-logo" /> </a
@@ -23,11 +24,11 @@
               class="creative-tim-logo"
             /> </a
           >.
-        </h6>
+        </h6>-->
       </div>
     </div>
     <div class="main">
-      <div class="section section-images">
+      <!--<div class="section section-images">
         <div class="container">
           <div class="row">
             <div class="col-md-12">
@@ -43,7 +44,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div>-->
     </div>
     <basic-elements></basic-elements>
     <navigation></navigation>
