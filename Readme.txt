@@ -28,7 +28,7 @@ Git
  - GitHub
 
 IDE
- - Atom/Eclipse
+ - Eclipse/Visual Studio Code
 
 
 
